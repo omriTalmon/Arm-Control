@@ -1,0 +1,38 @@
+[0.931s] Invoking command in '/home/omrit/arm_control_april/src/arm_description': PYTHONPATH=/home/omrit/arm_control_april/build/arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omrit/arm_control_april/install/arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arm_description build --build-base /home/omrit/arm_control_april/build/arm_description/build install --record /home/omrit/arm_control_april/build/arm_description/install.log --single-version-externally-managed install_data
+[1.192s] running egg_info
+[1.193s] creating ../../build/arm_description/arm_description.egg-info
+[1.193s] writing ../../build/arm_description/arm_description.egg-info/PKG-INFO
+[1.194s] writing dependency_links to ../../build/arm_description/arm_description.egg-info/dependency_links.txt
+[1.194s] writing entry points to ../../build/arm_description/arm_description.egg-info/entry_points.txt
+[1.194s] writing requirements to ../../build/arm_description/arm_description.egg-info/requires.txt
+[1.194s] writing top-level names to ../../build/arm_description/arm_description.egg-info/top_level.txt
+[1.195s] writing manifest file '../../build/arm_description/arm_description.egg-info/SOURCES.txt'
+[1.196s] reading manifest file '../../build/arm_description/arm_description.egg-info/SOURCES.txt'
+[1.197s] writing manifest file '../../build/arm_description/arm_description.egg-info/SOURCES.txt'
+[1.198s] running build
+[1.198s] running build_py
+[1.198s] creating /home/omrit/arm_control_april/build/arm_description/build
+[1.198s] creating /home/omrit/arm_control_april/build/arm_description/build/lib
+[1.198s] creating /home/omrit/arm_control_april/build/arm_description/build/lib/arm_description
+[1.200s] copying arm_description/__init__.py -> /home/omrit/arm_control_april/build/arm_description/build/lib/arm_description
+[1.200s] running install
+[1.201s] running install_lib
+[1.204s] creating /home/omrit/arm_control_april/install/arm_description/lib/python3.10/site-packages/arm_description
+[1.204s] copying /home/omrit/arm_control_april/build/arm_description/build/lib/arm_description/__init__.py -> /home/omrit/arm_control_april/install/arm_description/lib/python3.10/site-packages/arm_description
+[1.206s] byte-compiling /home/omrit/arm_control_april/install/arm_description/lib/python3.10/site-packages/arm_description/__init__.py to __init__.cpython-310.pyc
+[1.206s] running install_data
+[1.206s] copying package.xml -> /home/omrit/arm_control_april/install/arm_description/share/arm_description
+[1.206s] creating /home/omrit/arm_control_april/install/arm_description/share/arm_description/urdf
+[1.207s] copying arm_description/urdf/my_rover.urdf -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/urdf
+[1.209s] creating /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.209s] copying arm_description/meshes/base_link.STL -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.210s] copying arm_description/meshes/end_effector.STL -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.211s] copying arm_description/meshes/link_1.STL -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.212s] copying arm_description/meshes/link_2.STL -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.213s] copying arm_description/meshes/link_3.STL -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.214s] copying arm_description/meshes/link_4.STL -> /home/omrit/arm_control_april/install/arm_description/share/arm_description/meshes
+[1.215s] running install_egg_info
+[1.217s] Copying ../../build/arm_description/arm_description.egg-info to /home/omrit/arm_control_april/install/arm_description/lib/python3.10/site-packages/arm_description-0.0.0-py3.10.egg-info
+[1.218s] running install_scripts
+[1.246s] writing list of installed files to '/home/omrit/arm_control_april/build/arm_description/install.log'
+[1.281s] Invoked command in '/home/omrit/arm_control_april/src/arm_description' returned '0': PYTHONPATH=/home/omrit/arm_control_april/build/arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omrit/arm_control_april/install/arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/arm_description build --build-base /home/omrit/arm_control_april/build/arm_description/build install --record /home/omrit/arm_control_april/build/arm_description/install.log --single-version-externally-managed install_data
